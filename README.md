@@ -1,7 +1,9 @@
      Free Random Tool By SSC4-07 
             Here 👇👇👇
-     git clone https://github.com/SSC4-07/Random
+            
+            
+        git clone https://github.com/SSC4-07/Random
 
-cd Random
+        cd Random
 
-python SK.py
+        python SK.py
